@@ -1,0 +1,23 @@
+
+.thanks{
+    background: -webkit-linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
+     -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 1.3rem;
+  font-weight: 800;
+  
+}
+
+
+@media only screen and (max-width: 770px) {
+    .new-email-bx button {
+        margin: auto;
+       }
+    .thanks {
+        display: none;
+    }
+    .download{
+        margin-right:auto;
+    }
+
+  }
